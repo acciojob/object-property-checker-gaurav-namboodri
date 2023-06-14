@@ -5,8 +5,8 @@ function hasKey(key) {
   return key in sampleObject;
 
 
-console.log(hasKey("name")); // true
-console.log(hasKey("occupation")); // false
+console.log(hasKey("colour")); // true
+console.log(hasKey("code")); // false
   //   write your code here
 }
 
