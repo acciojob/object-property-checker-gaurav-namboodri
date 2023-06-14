@@ -4,9 +4,9 @@ function hasKey(key) {
 	
   return key in sampleObject;
 
-
-console.log(hasKey("colour")); // true
-console.log(hasKey("code")); // false
+console.log(hasKey("white")); // true
+console.log(hasKey("green")); // true
+console.log(hasKey("red")); // false
   //   write your code here
 }
 
